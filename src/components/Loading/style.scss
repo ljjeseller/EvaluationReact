@@ -1,0 +1,7 @@
+.page-nav{width: 100%;border: 1px solid #4f7fa2;margin-top: 30px;height: 40px;line-height: 40px;}
+.page-nav .left{float: left;}
+.page-nav .left a{padding: 0 20px;color: #4f7fa2;display: inline-block;float: left;border-right: 1px solid #4f7fa2;transition: all ease 300ms;}
+.page-nav .right a{padding: 0 20px;color: #4f7fa2;display: inline-block;transition: all ease 300ms;}
+.page-nav a:hover{color: #FFF;background: #4f7fa2;}
+.page-nav .right{float: right;color: #4f7fa2;}
+.page-nav .right input{width: 70px;border-left: 1px solid #4f7fa2;text-align: center;background: none;color: #888;}
